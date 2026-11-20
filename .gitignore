@@ -1,0 +1,11 @@
+.env
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+venv/
+# Generated data / outputs (regenerate with python run_all.py)
+data/*.csv
+reports/*.html
+charts/*.png
+!data/.gitkeep

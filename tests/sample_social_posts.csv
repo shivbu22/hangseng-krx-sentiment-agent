@@ -1,0 +1,6 @@
+source,exchange,ticker,timestamp_utc,text,likes,reposts,views,author_followers,url
+twitter,HKEX,0700.HK,2026-11-19T09:15:00+00:00,"Tencent bullish breakout, strong earnings beat, buying more $0700",42,8,5200,12000,https://example.invalid/post1
+twitter,HKEX,0700.HK,2026-11-19T11:02:00+00:00,"Not good - Tencent facing probe and weak guidance, sell",15,3,2100,800,https://example.invalid/post2
+reddit,HKEX,9988.HK,2026-11-18T14:40:00+00:00,"Alibaba rally continues, massive growth and buyback announced",25,0,0,0,https://example.invalid/post3
+twitter,KRX,005930.KS,2026-11-19T02:30:00+00:00,"Samsung Electronics downgrade, disappointing chip outlook, downside risk",30,5,9000,45000,https://example.invalid/post4
+reddit,KRX,000660.KS,2026-11-17T06:12:00+00:00,"SK Hynix soared on record profit, accumulate",12,0,0,0,https://example.invalid/post5
